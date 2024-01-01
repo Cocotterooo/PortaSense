@@ -1,10 +1,10 @@
 # Wireless-Motion-Sensor & Web-Control
-Sensor de movimiento inalámbrico que se puede colocar en cualquier lugar con una interfaz web y una centralita que recibe todos los datos vías ESP-NOW.
+Sensor de movimiento inalámbrico que se puede colocar en cualquier lugar con una interfaz web y una centralita que recibe todos los datos vía ESP-NOW.
 
 Este proyecto se está creando con micropython para la parte de los microcontroladores ESP32 y con python (Reflex) para la parte Web.
 
 # Módulo Sensor Inalámbrico (Microcontrolador Esclavo)
- **Partes:**
+ **HARDWARE:**
  
 - [ESP32 D1 MINI](https://www.amazon.es/AZDelivery-Bluetooth-Desarrollo-Internet-compatible/dp/B08BTLYSTM/ref=sr_1_5?crid=2FLT0Q20T8M2C&keywords=esp32%2Bmini&qid=1704080852&sprefix=esp%2Bmini%2Caps%2C111&sr=8-5&th=1) **x1**
 - [Pantalla OLED 0,91 Pulgadas I2C DC 3,3 V ~ 5 V](https://www.amazon.es/RUIZHI-Pulgadas-Display-Controlador-Pantalla/dp/B0CN8J64WV/ref=sr_1_27?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=HTUXCNCSUGXH&keywords=lcd+for+esp32&qid=1704080011&sprefix=lcd+for+esp32%2Caps%2C94&sr=8-27)  **x1**
@@ -13,5 +13,7 @@ Este proyecto se está creando con micropython para la parte de los microcontrol
 
  
 # Centralita (Microcontrolador Maestro)
-
+**HARDWARE:**
+ 
+- [ESP32 D1 MINI](https://www.amazon.es/AZDelivery-Bluetooth-Desarrollo-Internet-compatible/dp/B08BTLYSTM/ref=sr_1_5?crid=2FLT0Q20T8M2C&keywords=esp32%2Bmini&qid=1704080852&sprefix=esp%2Bmini%2Caps%2C111&sr=8-5&th=1) **x1**
 # Web
