@@ -11,6 +11,9 @@ Este proyecto se está creando con micropython para la parte de los microcontrol
   -Batería recargable AAA1.5V de iones de litio, 8800mAh, 1,5 V, AAA  **x4**
   -[Conector USB tipo C **x1**](https://es.aliexpress.com/item/1005006224531815.html?src=google&aff_fcid=c615c86bd97d43fab47ad2b506eb74bc-1704080169767-05580-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=c615c86bd97d43fab47ad2b506eb74bc-1704080169767-05580-UneMJZVf&terminal_id=2e966bb2dfd149cbb9f9f432eafd1f10&afSmartRedirect=y)
 
+- George Washington
+* John Adams
++ Thomas Jefferson
  
 # Centralita (Microcontrolador Maestro)
 
