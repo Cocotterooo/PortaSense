@@ -1,4 +1,9 @@
-# Sensor de Movimiento Portable && Centralita y Web
+# ¿Qué es PortaSense?
+**PortaSense** es un proyecto inspirado por las personas que comienzan con una persona con demencia en su casa o simplemente para un ámbito de seguridad.
+
+Este proyecto consta principalmente de 2 dispositivos distintos, un dispositivo portátil y una centralita.
+- Dispositivo Portátil: Este dispositivo consta de un microcontrolador ESP32 que gestionará los sensores deseados y enviar los datos a la centralita, en este caso un Sensor PIR (Sensor de Movimiento)
+- Centralita: Este dispositivo consta de un microcontrolador ESP32 que gestionará la conexión de 1-20 dispositivos portátiles y posteriormente 
 Sensor de movimiento inalámbrico que se puede colocar en cualquier lugar con una interfaz web y una centralita que recibe todos los datos vía ESP-NOW.
 
 Este proyecto se está creando con micropython para la parte de los microcontroladores ESP32 y con python (Reflex) para la parte Web.
