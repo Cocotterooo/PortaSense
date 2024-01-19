@@ -20,6 +20,7 @@ Creado para la **notificación de movimiento** o también otros valores a analiz
 ## Sensor:
 
 ### Requisitos para subir el código a los dispositivos ESP32:
+ - Tener [Python](https://www.python.org/) instalado en tu ordenador :)
  - Tener intalado el firmware de micropython en los dispositivos ESP32.
    > - Descarga el firmware para tu microcontrolador. Este proyecto utilizará este: [Firmware ESP32 Genérico 1.22.1](https://www.micropython.org/download/ESP32_GENERIC/)
    > - Instala el firmware descargado [esptool](https://github.com/espressif/esptool/) al puerto COM de asignado a tu dispositivo.
